@@ -91,8 +91,8 @@ var (
 	}
 
 	AllowedGalaxyGenesisHashes = map[uint64]hash.Hash{
-		galaxy.MainNetworkID: hash.HexToHash("0x02728d549d15b4530590e9577cb4934acffd814210a5d0a7da5044ee3ca3671f"),
-		galaxy.TestNetworkID: hash.HexToHash("0xc35e6ef07d6d5470f60c0969227a88a5c0a6cda9e91e6b48f682b0d9e2e8a5ea"),
+		galaxy.MainNetworkID: hash.HexToHash("0xb182afaf3a171f78371d941477311ec007c96ee05d1494bd5675a574b65a11b8"),
+		galaxy.TestNetworkID: hash.HexToHash("0xb9507a941e652a1eb86e6d6748373e6e8ca605baebd4315c65d21eadca2f7d7c"),
 	}
 )
 
